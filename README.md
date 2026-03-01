@@ -151,80 +151,13 @@ The dataset consists of three relational tables:
 
 ### 1️⃣ Empathize
 
-# 🧠 STAGE 1: EMPATHIZE - 5W1H
+### 🧠 STAGE 1: EMPATHIZE - 5W1H
 
-<h1 align="center">🧠 STAGE 1: EMPATHIZE - 5W1H</h1>
-
-<table border="1" width="100%" cellspacing="0" cellpadding="8">
-  <tr>
-    <th>Who will view this Dashboard?</th>
-    <th>What problem does this dashboard solve?</th>
-    <th>When and where will stakeholders view this dashboard?</th>
-    <th>Why is this analysis needed?</th>
-    <th>How do stakeholders make decisions?</th>
-  </tr>
-
-  <tr>
-    <td>
-      - Senior Manager<br>
-      - Board of Directors (CEO, COO)<br>
-      - Sales Director / Head of Sales<br>
-      - Regional Sales Managers<br>
-      - Marketing Manager<br>
-      - Product Manager<br>
-      - Finance Manager
-    </td>
-
-    <td>
-      - Overall business performance: revenue, profit, growth.<br>
-      - Market performance: which regions are growing and which need improvement.<br>
-      - Product performance: leading and high-potential products.<br>
-      - Customer trends: purchasing behavior, retention rate, order value.<br>
-      - Risks & opportunities: declining markets, high return rates, rising costs.
-    </td>
-
-    <td>
-      <b>When:</b><br>
-      - Weekly / monthly tracking.<br>
-      - Before investment or expansion decisions.<br>
-      - After marketing campaigns or product launches.<br><br>
-      <b>Where:</b><br>
-      - Strategic meetings, periodic reports, executive presentations.<br>
-      - On personal computers, tablets, or presentation screens.
-    </td>
-
-    <td>
-      - To support strategic market expansion decisions.<br>
-      - To select key products for investment and development.<br>
-      - To optimize product portfolio and sales channels.<br>
-      - To present insights to executives or the board.
-    </td>
-
-    <td>
-      - Through interactive and easy-to-understand visuals (filters by market, product, time).<br>
-      - Insight-focused, not overly technical.<br>
-      - Using executive scorecards, trend charts, and regional/product comparisons.<br>
-      - Exportable to PDF or presentation format.
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>If only one key stakeholder is chosen, who would it be?</b></td>
-    <td><b>Summarize the problem in one sentence:</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Senior Sales Manager</td>
-    <td>Provide business data to support market expansion and strategic product selection.</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-</table>
+| Who will view this Dashboard? | What problem does this dashboard solve? | When and where will stakeholders view this dashboard? | Why is this analysis needed? | How do stakeholders make decisions? |
+|--------------------------------|------------------------------------------|--------------------------------------------------------|------------------------------|--------------------------------------|
+| - Senior Manager <br> - Board of Directors (CEO, COO) <br> - Sales Director / Head of Sales <br> - Regional Sales Managers <br> - Marketing Manager <br> - Product Manager <br> - Finance Manager | - Overall business performance: revenue, profit, growth. <br> - Market performance: which regions are growing and which need improvement. <br> - Product performance: leading products and high-potential products. <br> - Customer trends: purchasing behavior, retention rate, order value. <br> - Risks & opportunities: declining markets, high return rates, rising costs. | **When:** <br> - Weekly / monthly performance tracking. <br> - Before investment or expansion decisions. <br> - After marketing campaigns or new product launches. <br><br> **Where:** <br> - Strategic meetings, periodic reports, executive presentations. <br> - On personal computers, tablets, or presentation screens. | - To support strategic market expansion decisions. <br> - To select key products for investment and development. <br> - To optimize product portfolio and sales channels. <br> - To present insights to executives or the board. | - Through interactive and easy-to-understand visuals (filters by market, product, time). <br> - Insight-focused, not overly technical. <br> - Using executive scorecards, trend charts, and regional/product comparisons. <br> - Exportable to PDF or presentation format. |
+| **If only one key stakeholder is chosen, who would it be?** | **Summarize the problem in one sentence:** |  |  |  |
+| Senior Sales Manager | Provide business data to support market expansion and strategic product selection. |  |  |  |
 
 ### 2️⃣ Define Point of View
 
