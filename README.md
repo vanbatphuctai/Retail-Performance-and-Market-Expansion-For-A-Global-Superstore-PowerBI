@@ -150,17 +150,13 @@ The dataset consists of three relational tables:
 ## 🧠 Design Thinking Process
 
 ### 1️⃣ Empathize
+
 # 🧠 STAGE 1: EMPATHIZE - 5W1H
 
 | Who will view this Dashboard? | What problem does this dashboard solve? | When and where will stakeholders view this dashboard? | Why is this analysis needed? | How do stakeholders make decisions? |
 |--------------------------------|------------------------------------------|--------------------------------------------------------|------------------------------|--------------------------------------|
 | - Senior Manager <br> - Board of Directors (CEO, COO) <br> - Sales Director / Head of Sales <br> - Regional Sales Managers <br> - Marketing Manager <br> - Product Manager <br> - Finance Manager | - Overall business performance: revenue, profit, growth. <br> - Market performance: which regions are growing and which need improvement. <br> - Product performance: leading products and high-potential products. <br> - Customer trends: purchasing behavior, retention rate, order value. <br> - Risks & opportunities: declining markets, high return rates, rising costs. | **When:** <br> - Weekly / monthly performance tracking. <br> - Before investment or expansion decisions. <br> - After marketing campaigns or new product launches. <br><br> **Where:** <br> - Strategic meetings, periodic reports, executive presentations. <br> - On personal computers, tablets, or presentation screens. | - To support strategic market expansion decisions. <br> - To select key products for investment and development. <br> - To optimize product portfolio and sales channels. <br> - To present insights to executives or the board. | - Through interactive and easy-to-understand visuals (filters by market, product, time). <br> - Insight-focused, not overly technical. <br> - Using executive scorecards, trend charts, and regional/product comparisons. <br> - Exportable to PDF or presentation format. |
-
----
-
-| If only one key stakeholder is chosen, who would it be? | Summarize the problem in one sentence |
-|----------------------------------------------------------|----------------------------------------|
-| Senior Sales Manager | Provide business data to support market expansion and strategic product selection. |
+| **If only one key stakeholder is chosen, who would it be?** <br><br> Senior Sales Manager | **Summarize the problem in one sentence:** <br><br> Provide business data to support market expansion and strategic product selection. |  |  |  |
 
 ### 2️⃣ Define Point of View
 
