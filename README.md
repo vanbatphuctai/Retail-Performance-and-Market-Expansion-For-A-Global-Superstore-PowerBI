@@ -159,6 +159,15 @@ The dataset consists of three relational tables:
 | **If only one key stakeholder is chosen, who would it be?** | **Summarize the problem in one sentence:** |  |  |  |
 | Senior Sales Manager | Provide business data to support market expansion and strategic product selection. |  |  |  |
 
+# 🧠 STAGE 1: EMPATHY MAP
+
+| Thinking & Feeling <br><sub>What does the stakeholder think and feel?</sub> | Seeing <br><sub>What does the stakeholder see?</sub> | Saying & Doing <br><sub>What does the stakeholder say and do?</sub> |
+|--------------------------------|--------------------------------|--------------------------------|
+| - Concerned that wrong decisions may significantly impact the business. <br> - Wants data that is easy to understand and actionable. <br> - Feels pressure to make fast but accurate decisions. <br> - Lacks time to analyze excessive or complex information. <br> - Wants to control risks while still driving growth. | - Dense reports and multiple spreadsheets. <br> - Data scattered across departments. <br> - Increasing market competition. <br> - Market fluctuations. <br> - Rapid global economic changes. | - "I need an intuitive and easy-to-understand dashboard." <br> - "Can I trust this data?" <br> - Frequently requests quick reports and updates. <br> - Participates in strategy meetings and presents to executives. |
+| **Pains** <br><sub>What are the biggest problems and challenges?</sub> | **STAKEHOLDER** | **Gains** <br><sub>What are the opportunities and benefits?</sub> |
+| - Lack of an intuitive tool to consolidate data. <br> - Difficult to compare markets and products clearly. <br> - Data updates are not timely. <br> - No early warning system for risks. <br> - Sometimes decisions rely on intuition instead of data. | **Senior Sales Manager** | - Interactive and intuitive dashboard with real-time updates. <br> - Clear market and product insights. <br> - Data-driven strategic recommendations. <br> - Early risk detection capability. <br> - Greater confidence in data-driven decisions. |
+
+
 ### 2️⃣ Define Point of View
 
 
