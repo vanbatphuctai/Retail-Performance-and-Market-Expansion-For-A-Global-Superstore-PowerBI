@@ -1,4 +1,4 @@
-# 📊 Retail Performance & Market Expansion For A Global Superstore | Power BI
+📊 Retail Performance & Market Expansion For A Global Superstore | Power BI
 
 **Author:** Van Bat Phuc Tai  
 **Tools Used:** Power BI
@@ -152,121 +152,22 @@ The dataset consists of three relational tables:
 
 ### 1️⃣ Empathize
 
-### 🧠 STAGE 1: EMPATHIZE - 5W1H
-
-| Who will view this Dashboard? | What problem does this dashboard solve? | When and where will stakeholders view this dashboard? | Why is this analysis needed? | How do stakeholders make decisions? |
-|--------------------------------|------------------------------------------|--------------------------------------------------------|------------------------------|--------------------------------------|
-| - Senior Manager <br> - Board of Directors (CEO, COO) <br> - Sales Director / Head of Sales <br> - Regional Sales Managers <br> - Marketing Manager <br> - Product Manager <br> - Finance Manager | - Overall business performance: revenue, profit, growth. <br> - Market performance: which regions are growing and which need improvement. <br> - Product performance: leading products and high-potential products. <br> - Customer trends: purchasing behavior, retention rate, order value. <br> - Risks & opportunities: declining markets, high return rates, rising costs. | **When:** <br> - Weekly / monthly performance tracking. <br> - Before investment or expansion decisions. <br> - After marketing campaigns or new product launches. <br><br> **Where:** <br> - Strategic meetings, periodic reports, executive presentations. <br> - On personal computers, tablets, or presentation screens. | - To support strategic market expansion decisions. <br> - To select key products for investment and development. <br> - To optimize product portfolio and sales channels. <br> - To present insights to executives or the board. | - Through interactive and easy-to-understand visuals (filters by market, product, time). <br> - Insight-focused, not overly technical. <br> - Using executive scorecards, trend charts, and regional/product comparisons. <br> - Exportable to PDF or presentation format. |
-| **If only one key stakeholder is chosen, who would it be?** | **Summarize the problem in one sentence:** |  |  |  |
-| Senior Sales Manager | Provide business data to support market expansion and strategic product selection. |  |  |  |
-
-### 🧠 STAGE 1: EMPATHY MAP
-
-| Thinking & Feeling <br><sub>What does the stakeholder think and feel?</sub> | Seeing <br><sub>What does the stakeholder see?</sub> | Saying & Doing <br><sub>What does the stakeholder say and do?</sub> |
-|--------------------------------|--------------------------------|--------------------------------|
-| - Concerned that wrong decisions may significantly impact the business. <br> - Wants data that is easy to understand and actionable. <br> - Feels pressure to make fast but accurate decisions. <br> - Lacks time to analyze excessive or complex information. <br> - Wants to control risks while still driving growth. | - Dense reports and multiple spreadsheets. <br> - Data scattered across departments. <br> - Increasing market competition. <br> - Market fluctuations. <br> - Rapid global economic changes. | - "I need an intuitive and easy-to-understand dashboard." <br> - "Can I trust this data?" <br> - Frequently requests quick reports and updates. <br> - Participates in strategy meetings and presents to executives. |
-| **Pains** <br><sub>What are the biggest problems and challenges?</sub> | | **Gains** <br><sub>What are the opportunities and benefits?</sub> |
-| - Lack of an intuitive tool to consolidate data. <br> - Difficult to compare markets and products clearly. <br> - Data updates are not timely. <br> - No early warning system for risks. <br> - Sometimes decisions rely on intuition instead of data. | | - Interactive and intuitive dashboard with real-time updates. <br> - Clear market and product insights. <br> - Data-driven strategic recommendations. <br> - Early risk detection capability. <br> - Greater confidence in data-driven decisions. |
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/33898a50-0a23-4228-a3b0-2daedf47e13c" />
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/2da90e48-879e-4ffe-8b8f-373070697f7d" />
 
 
 ### 2️⃣ Define Point of View
 
-### 🚀 STAGE 2: STAKEHOLDERS JOURNEY
-
-| Step | Description |
-|------|------------|
-| 🟢 **Step 1 – Business Assessment** | Starting from the company’s actual business situation, BOD and relevant managers want to understand business performance and trends over the years. If things look good, they plan to expand to new markets and choose suitable products to maximize revenue. |
-| 🔵 **Step 2 – Data Insights & Dashboard** | To get the needed insights, stakeholders reach out to Data Analysts to build dashboards that visualize business performance clearly. From this, they can identify growth opportunities and potential products. |
-| 🟣 **Step 3 – Strategy & Decision Making** | After receiving the dashboard, stakeholders have meetings to brainstorm ideas and finalize business strategies to move forward. |
-| 🟠 **Step 4 – Execution & Monitoring** | New products are launched in new markets, and sell-in/sell-out data is regularly updated. |
-
-### 🚀 STAGE 2: NORTHSTAR METRICS & DEFINE POV
-
-#### NORTHSTAR METRICS
-
-|                          | **NORTHSTAR 1** | **NORTHSTAR 2 (Optional)** |
-|--------------------------|------------------|-----------------------------|
-| **What VALUE do you want to measure?** | Revenue Growth Rate | Profit (Profit Margin) |
-| **WHEN does the value indicate DELIVERY SUCCESS?** | - Increase order volume <br> - Increase number of customers <br> - Increase customer spending per order <br> - Improve sales team performance <br> - Expand market coverage <br> - Optimize conversion rate <br> - Increase Customer Lifetime Value (CLV) <br> - Implement threshold-based promotions <br> - Reduce return and complaint rates | - Achieve high profit margins <br> - Maintain effective cost control <br> - Set competitive yet profitable pricing <br> - Increase Average Order Value (AOV) <br> - Improve conversion rate <br> - Focus on high-margin products |
-| **Northstar Metric Name** | Revenue Growth Rate | Profit Margin |
-| **WHY do you choose this metric?** | Revenue Growth Rate reflects overall business performance, market penetration, and sustainable growth through customer acquisition, increased spending, and operational scalability. | Profit Margin reflects true operational efficiency by measuring value creation and cost control, ensuring sustainable net profitability across products and markets. |
-
-#### DEFINE POINT OF VIEW
-
-| Dimension | View 1 | View 2 | View 3 | View 4 | View 5 | View 6 |
-|------------|----------|----------|----------|----------|----------|----------|
-| Brainstorming Point of View | Overall (Timing) | Market | Product | Sales Agent | Customer | Marketing |
-
-#### DEFINE KEY BUSINESS VIEWS
-
-| View | Description | Why do stakeholders need this view? |
-|------|------------|--------------------------------------|
-| Overall | Understand the overall business situation: revenue, cost, profit. | - Determine whether the business is performing well or not. <br> - Set long-term strategic direction. |
-| Market | Business performance by geographical market/region. | - Make accurate investment decisions for each market. <br> - Evaluate market suitability. <br> - Forecast risks and opportunities. |
-| Product | Business performance by product line. | - Understand the performance of each product line. <br> - Optimize product portfolio. <br> - Decide whether to develop new products. <br> - Identify products to discontinue. |
-| Sales Agent / Distributor | Performance by distributor and best-selling products within each assigned area. | - Identify which distributors generate the highest revenue. <br> - Evaluate channel management efficiency. <br> - Decide whether to expand or narrow the distribution network. |
-| Customer | - Customer segmentation. <br> - Consumption behavior and trends. <br> - Customer acquisition cost. <br> - Customer lifetime value. <br> - Expansion potential and retention. | - Understand which customer segments create the most value. <br> - Optimize customer acquisition cost. <br> - Forecast growth and risks. |
-| Marketing | Optimize campaigns to attract potential customers. | - Improve conversion rate. |
-
-#### NORTHSTAR FORMULA: GROWTH FORMULA - Revenue (Revenue Growth Rate)
-
-| Breakdown | Formula |
-|------------|----------|
-| Growth formula breakdown by View 1 | **Total Revenue Growth Rate** = (Total Revenue Current Period − Total Revenue Previous Period) / Total Revenue Previous Period |
-| Growth formula breakdown by View 2 | **Total Revenue Growth Rate by Market** = (Revenue Current Period − Revenue Previous Period) / Revenue Previous Period |
-| Growth formula breakdown by View 3 | **Total Revenue Growth Rate by Product Category** = (Revenue Current Period − Revenue Previous Period) / Revenue Previous Period |
-| Growth formula breakdown by View 4 | **Total Revenue Growth Rate by Region** = (Revenue Current Period − Revenue Previous Period) / Revenue Previous Period |
-| Growth formula breakdown by View 5 | **Total Revenue Growth Rate by Customer Segment** = (Revenue Current Period − Revenue Previous Period) / Revenue Previous Period |
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/b537b0dd-3c3f-49b8-87bc-a5276669bc73" />
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/ce1e4e91-09ae-4743-9aae-0f292af04e39" />
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/21f0b09b-b1c2-4890-9253-fa8075b17fa5" />
 
 
 ### 3️⃣ Ideate
 
-### STAGE 3: IDEATE – BRAINSTORMING
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/c379ad21-c678-4aad-9540-b4fd3e37a429" />
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/44945bfa-ccd4-486e-967b-b3ba3d62c990" />
 
-**Start with:**  
-Based on the Growth Formula breakdown of each view, brainstorm related dimensions and insights aligned with the NorthStar Metric.
-
----
-
-#### Overview Layer (Core Metrics)
-
-| Metric 1 | Metric 2 | Metric 3 | Metric 4 |
-|----------|----------|----------|----------|
-| Total Revenue | Total Profit | Profit Margin | Revenue Growth Rate |
-
-| Metric 5 | Metric 6 | Metric 7 | Metric 8 |
-|----------|----------|----------|----------|
-| Total Orders | AOV | Return Rate | |
-
----
-
-#### Brainstorming Breakdown
-
-| Idea Name | Layer 0 Dimension (Overall) | Layer 1 Dimension (1D Breakdown) | Layer 2 Dimension (2D Breakdown) | Anything Important Missed? |
-|------------|----------------------------------|-----------------------------------|-----------------------------------|----------------------------|
-| **View 1: Business Overview** | - Total Sales <br> - Total Profit <br> - Profit Margin <br> - Total Orders <br> - Return Rate <br> - Revenue Growth % | - Revenue trend by market/product (Year) <br> - Revenue by market (total sales, total profit, profit margin) <br> - Revenue by category (total sales, total profit, profit margin) <br> - Profit by market/category <br> - Return Rate by market/category <br> - Total Sales vs Sales LY <br> - Revenue YoY by Market/Product |  |  |
-| **View 2: Market Analysis** | Top Market | - Total Sales vs Sales LY (%) by market <br> - YoY growth by market |  - Top Sales (Market) <br> - Total Sales, Sales LY, YoY % Growth <br> - Total Profit, Profit Margin, Total Orders, Return Rate (by Region, Country, City) |  |
-| **View 3 – Product Analysis** | - Top Product | - Revenue Growth Rate by Product (%)  | - Top Selling Product by Total Sales <br> - Breakdown by Category/Sub-category <br> - Sales, Sales LY, YoY Growth, Total Profit, Profit Margin, Total Orders |   |
-| **View 4 – Sales Agent** | 2 Key Metrics: Total Revenue & Total Profit | - Sales Agent Performance <br> - Revenue Growth Rate by Sales Agent |- Detailed breakdown by Region & Sales Agent <br> - 4 Scorecards: Revenue, Profit Margin, Profit, YoY Growth Rate |  |
-
-### STAGE 3: IDEATE – STRUCTURE IDEA
-
-#### Scorecard Metrics
-
-| Metric 1 | Metric 2 | Metric 3 | Metric 4 | Metric 5 | Metric 6 |
-|----------|----------|----------|----------|----------|----------|
-| Profit | Total Revenue | Profit Margin | Revenue Growth | Profit Growth | AOV |
-
----
-
-#### Structured Idea Breakdown
-
-| Idea Name | Very Important Information | Important Information | Detailed Information | Anything Important Missed? |
-|------------|----------------------------|------------------------|----------------------|----------------------------|
-| View 1 – Business Overview | Scorecard: Total Sales, Total Profit, Profit Margin, Revenue Growth Rate (%), Total Orders, Return Rate | - Line & Column chart: Total Sales, Total Profit, Profit Margin by Year <br> - Line & Column chart: Total Sales, Total Profit, Profit Margin by Market <br> - Revenue Trend <br> - Bar chart: YoY by Market <br> - Column: Total Orders vs Return Rate by Year | - Top Salesperson by Market (based on Total Sales) <br> - Matrix table: Total Sales, Sales LY, YoY %, Total Profit, Profit Margin, Total Orders, Return Rate (by Market, Country, State, City) |  |
-| View 2 – Market Analysis | Scorecard: Top Market (by revenue & volume) | - Column & Line: Total Sales vs Sales LY, YoY% (Market) <br> - Scatter Plot: Profit vs Sales by Market <br> - Tree Map: Revenue contribution by Market & Region (drill-down) | - Regional breakdown table (Market → Region → Country → City) including Sales, Sales LY, YoY%, Profit, Profit Margin, Orders |  |
-| View 3 – Product Analysis | Scorecard: Top Subcategory (by revenue & volume) | - Column & Line: Total Sales vs Sales LY, YoY% (Product) <br> - Total Sales, Total Profit, Total Orders by Sub-Category | - Stacked Column: Top 10 selling products <br> - Matrix table by Category/Sub-category: Total Sales, Sales LY, YoY%, Total Profit, Profit Margin, Total Orders, Return Rate |  |
-| View 4 – Sales Agent | 2 Scorecards: Total Revenue & Total Profit (with line trend) | - Sales Agent Performance (Scatter: Revenue, Profit Margin, Orders) <br> - Revenue Growth Rate by Sales Agent (parameter by Market & Category) | - Detailed Sales Area Map & Scorecards: Revenue, Profit Margin, Profit, YoY Growth Rate <br> - Sales Agent ranking table showing Revenue & Profit |  |
 
 ### 4️⃣ Prototype and Review
 This phase is implemented and validated directly within the interactive dashboard.
