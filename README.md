@@ -231,22 +231,26 @@ Return rates remained stable (~5–6%).
 Total Revenue reached **$12.64M** and Total Profit **$1.47M**.
 APAC, EU, and US are the core revenue contributors, anchoring overall performance.  
 Profitability, however, varies meaningfully across markets.
+
 → Scale is concentrated in major markets, but **margin structure differs** by region.
 
 #### 2. Growth Dynamics (YoY)
 
 EMEA (+59.8%) and Africa (+56.5%) recorded the fastest YoY growth, while US (+46.9%) expanded more moderately.
+
 → Growth momentum is shifting toward **emerging markets**, while mature markets remain stable revenue pillars.
 
 #### 3. Market Efficiency Contrast
 
 Core markets operate at healthy mid-level margins (~12–13%).  
 Canada delivers the highest margin (~26.6%) despite limited scale, whereas EMEA runs at the lowest margin (~5.5%).
+
 → Clear divergence between **volume-driven** core markets and **margin-driven** niche markets.
 
 #### 4. Sales Performance Concentration
 
-Top salesperson generated ~$2.82M, significantly outperforming peers (~$0.88M–$1.60M).
+Top salesperson generated around $2.82M, significantly outperforming peers (~$0.88M–$1.60M).
+
 → Revenue concentration highlights a **capability gap** and **scalability opportunity** within the sales team.
 
 ### III. Product Analysis
