@@ -1,4 +1,4 @@
-📊 Retail Performance & Market Expansion For A Global Superstore | Power BI
+# 📊 Retail Performance & Market Expansion For A Global Superstore | Power BI
 
 **Author:** Van Bat Phuc Tai  
 **Tools Used:** Power BI
@@ -21,7 +21,6 @@
 **Global Superstore** is a **multinational retail company** operating across multiple global markets.  
 The company sells **Furniture, Office Supplies, and Technology** products through **regionally assigned sales representatives**.
 
----
 
 ### 🎯 Business Objective
 
@@ -29,7 +28,6 @@ Senior management requires a **clear view of overall business performance, marke
 
 The goal is to support **data-driven decision-making** that improves **revenue quality, profitability, and ROI** across markets and product categories.
 
----
 
 ### ❗ Why This Analysis Matters
 
@@ -43,7 +41,6 @@ Without **structured performance analysis**:
 
 This dashboard provides a **consolidated performance view** to support **data-driven expansion strategy** and **product prioritization decisions**.
 
----
 
 ### 👤 Target Users
 
@@ -52,7 +49,6 @@ This dashboard provides a **consolidated performance view** to support **data-dr
 - **Sales & Marketing Teams**  
 - **Data / Business Analysts**  
 
----
 
 ### ❓ Key Business Questions
 
@@ -61,7 +57,6 @@ This dashboard provides a **consolidated performance view** to support **data-dr
 - Which product categories drive **high-margin revenue**?
 - Where are operational risks (**low margin, high return rate**) impacting results?
 
----
 
 ### 📊 Project Outcome
 
@@ -344,3 +339,5 @@ Margin dispersion ranges from **single-digit levels (US territories)** to **~26%
 | 🛒 **2. Product & Sales Portfolio Optimization** | - Technology is the **core profit driver (~14% margin)**. <br>- Phones & Copiers contribute the largest share of profit. <br>- Furniture drags overall margin (~7%). <br>- Sales agents focused on Technology achieve higher margins. | - Increase Technology mix within the sales portfolio. <br>- Upsell high-margin products (Phones, Copiers). <br>- Tighten control or rationalize low-margin Furniture lines. |
 | 👥 **3. Sales Capability & Performance Gap** | - Revenue is partially concentrated among top performers (~$2.82M vs ~$0.9–1.6M). <br>- Significant margin gap across regions (11%–26%). | - Replicate best practices from high-margin agents across teams. <br>- Strengthen pricing and product-mix coaching in volume-driven regions. <br>- Shift KPIs from revenue-only to margin-based performance. |
 | ⚙️ **4. Operational Efficiency & Risk Control** | - Orders grew >50% while return rate remained stable (~5%). <br>- Standard Class drives the majority of return volume due to scale. | - Sustain quality control during expansion. <br>- Optimize logistics costs rather than changing shipping structure. |
+
+
